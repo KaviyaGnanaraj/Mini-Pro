@@ -1,0 +1,5 @@
+{
+  "name": " Student's Performance",
+  "description": "A comprehensive student performance analysis dashboard for college management. Upload CSV data to visualize trends, attendance correlations, and generate AI-powered insights and Python analysis scripts.",
+  "requestFramePermissions": []
+}
